@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+  <title>Vuori</title>
+</head>
+
+
+<header>
+</header>
+
+
+<body>
+</body>
+
+
+<footer>
+</footer>
+
+
+</html>
